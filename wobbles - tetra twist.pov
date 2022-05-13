@@ -1,6 +1,10 @@
 // PoVRay 3.7 Scene File "wobbles - tetra twist.pov"
+//
 // author:  @galacticfurball (Discatte)
 // date:    05/11/2022
+//
+// notes:   render with +KFF120 +H256 +W256
+//
 //-------------------------------------------------------------------------
 #version 3.7;
 global_settings{ assumed_gamma 1.0 }
