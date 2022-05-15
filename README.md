@@ -11,7 +11,9 @@
 
 ##### HQ Videos
 
-https://www.youtube.com/watch?v=AH5H5RLILyw
+[CatSoft LOGiN](https://www.youtube.com/watch?v=EaEN7s8HNXk)
+
+[SlipStream](https://www.youtube.com/watch?v=AH5H5RLILyw)
 
 ##### Instructions
 
